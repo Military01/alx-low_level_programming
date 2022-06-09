@@ -2,7 +2,7 @@
 #include <ctype.h>
 
 /**
- * _isupper - function that checks for alphabetic character in c
+ * _isupper - function that checks for alphabetic character
  *
  * @c: return char type
  *
