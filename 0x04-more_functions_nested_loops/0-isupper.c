@@ -2,11 +2,11 @@
 #include <ctype.h>
 
 /**
- * _isupper - function that checks for alphabetic character
+ * _isupper - function that helps check for alphabetic character
  *
  * @c: return char type
  *
- * Return: return 0 on success and 1 on fail
+ * Return: return 0 on true and 1 on false
  */
 
 int _isupper(int c)
