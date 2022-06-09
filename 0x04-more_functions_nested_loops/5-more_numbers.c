@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - func that prints 10 times the numbers 0 to 14 on different lines
+ * more_numbers - func that prints 10 times the numbers, from 0 to 14
  *
  */
 
